@@ -1,0 +1,45 @@
+name: Setup User Branch
+
+on:
+  workflow_dispatch:
+    inputs:
+      npm_username:
+        description: "Your npm username"
+        required: true
+        type: string
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Create user branch with config
+        env:
+          BRANCH: ${{ github.repository_owner }}
+          NPM_USERNAME: ${{ inputs.npm_username }}
+        run: |
+          if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
+            echo "::error::Branch '$BRANCH' already exists. Delete it first to re-setup."
+            exit 1
+          fi
+
+          git checkout -b "$BRANCH"
+
+          if [ ! -f config.json ]; then
+            cat > config.json <<EOF
+          {
+            "\$schema": "./config.schema.json",
+            "npmUsername": "${NPM_USERNAME}",
+            "exclude": []
+          }
+          EOF
+            git add config.json
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --staged --quiet || git commit -m "Setup stats for $BRANCH"
+          git push -u origin "$BRANCH"

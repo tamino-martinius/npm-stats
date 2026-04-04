@@ -1,0 +1,19 @@
+{
+  "name": "npm-stats",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "npx tsx src/scripts/sync.ts",
+    "stats": "npx tsx src/scripts/stats.ts"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "get-all-npm-contributions": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^6.0.2"
+  }
+}

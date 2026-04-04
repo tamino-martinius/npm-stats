@@ -1,0 +1,4 @@
+node_modules/
+dist/
+data/full.json
+data/commit-message.txt

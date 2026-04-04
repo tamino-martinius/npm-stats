@@ -1,0 +1,82 @@
+name: Sync npm Stats
+
+on:
+  push:
+    branches-ignore: [main]
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      branch-exists: ${{ steps.check.outputs.exists }}
+    steps:
+      - name: Check if user branch exists
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ github.repository_owner }}
+        run: |
+          if gh api "repos/${{ github.repository }}/branches/${BRANCH}" --silent 2>/dev/null; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Branch '${BRANCH}' not found. Run the setup workflow first."
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  sync:
+    needs: check
+    if: |
+      needs.check.outputs.branch-exists == 'true' &&
+      !startsWith(github.event.head_commit.message || '', 'Update stats:')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.repository_owner }}
+          lfs: true
+
+      - run: git lfs install
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "lts/*"
+          cache: npm
+
+      - run: npm ci
+
+      - name: Read npm username
+        id: config
+        run: echo "npm_username=$(jq -r '.npmUsername' config.json)" >> "$GITHUB_OUTPUT"
+
+      - run: npm run sync
+        timeout-minutes: 15
+        continue-on-error: true
+        env:
+          ENCRYPTION_KEY: ${{ secrets.ENCRYPTION_KEY }}
+          NPM_USERNAME: ${{ steps.config.outputs.npm_username }}
+
+      - run: npm run stats
+        env:
+          ENCRYPTION_KEY: ${{ secrets.ENCRYPTION_KEY }}
+          NPM_USERNAME: ${{ steps.config.outputs.npm_username }}
+
+      - name: Commit and push
+        run: |
+          if [ -f data/commit-message.txt ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/stats.json data/full.json.enc
+            git commit -F data/commit-message.txt
+            git pull --rebase
+            git push
+          fi
+          rm -f data/commit-message.txt
