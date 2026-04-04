@@ -1,0 +1,5 @@
+{
+  "$schema": "./config.schema.json",
+  "npmUsername": "tamino-martinius",
+  "exclude": []
+}
