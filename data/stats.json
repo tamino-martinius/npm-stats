@@ -94662,7 +94662,9 @@
           "npm": "https://www.npmjs.com/package/get-all-npm-contributions"
         }
       },
-      "downloadsPerDate": {},
+      "downloadsPerDate": {
+        "2026-04-04": 92
+      },
       "versionsPerDate": {
         "2026-04-04": 1
       },
