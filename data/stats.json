@@ -132,6 +132,7 @@
       "2026-04-02": 122,
       "2026-04-06": 61,
       "2026-04-07": 122,
+      "2026-04-08": 61,
       "2025-05-03": 1,
       "2025-07-04": 1,
       "2026-03-12": 4,
@@ -240,7 +241,7 @@
       "Fri, 14": 244,
       "Mon, 07": 427,
       "Tue, 19": 184,
-      "Wed, 17": 123,
+      "Wed, 17": 184,
       "Thu, 13": 333,
       "Tue, 09": 380,
       "Tue, 10": 551,
@@ -3219,7 +3220,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-2-stroke-2",
         "description": "A collection of round filled React icons with 2px radius and 2px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -3727,7 +3728,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -3768,7 +3770,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -3820,7 +3822,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-2-stroke-2",
         "description": "A collection of round outlined React icons with 2px radius and 2px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -4324,7 +4326,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -4362,7 +4365,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -4417,7 +4420,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-1-stroke-1.5",
         "description": "A collection of round outlined React icons with 1px radius and 1.5px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -4921,7 +4924,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -4960,7 +4964,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -5014,7 +5018,7 @@
       "details": {
         "name": "@central-icons-react/square-outlined-radius-0-stroke-1.5",
         "description": "A collection of square outlined React icons with 0px radius and 1.5px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -5518,7 +5522,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -5556,7 +5561,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -5611,7 +5616,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-3-stroke-2",
         "description": "A collection of round outlined React icons with 3px radius and 2px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -6115,7 +6120,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -6153,7 +6159,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -6208,7 +6214,7 @@
       "details": {
         "name": "@central-icons-react/square-outlined-radius-0-stroke-2",
         "description": "A collection of square outlined React icons with 0px radius and 2px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -6712,7 +6718,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -6750,7 +6757,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -6806,7 +6813,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-2-stroke-1.5",
         "description": "A collection of round outlined React icons with 2px radius and 1.5px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -7310,7 +7317,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -7349,7 +7357,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -7403,8 +7411,8 @@
     {
       "details": {
         "name": "@central-icons-react/all",
-        "description": "A comprehensive collection of professionally designed React icons featuring customizable styles including round and square shapes, filled and outlined variants, multiple stroke widths, and corner radius options. The collection contains 1911 icons with 30 ",
-        "latestVersion": "1.1.181",
+        "description": "A comprehensive collection of professionally designed React icons featuring customizable styles including round and square shapes, filled and outlined variants, multiple stroke widths, and corner radius options. The collection contains 1912 icons with 30 ",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [],
         "links": {
@@ -7895,7 +7903,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -7935,7 +7944,7 @@
         "Mon, 05": 1,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 5,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -7991,7 +8000,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-3-stroke-2",
         "description": "A collection of round filled React icons with 3px radius and 2px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -8499,7 +8508,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -8540,7 +8550,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -8592,7 +8602,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-3-stroke-1.5",
         "description": "A collection of round outlined React icons with 3px radius and 1.5px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -9096,7 +9106,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -9135,7 +9146,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -9190,7 +9201,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-1-stroke-2",
         "description": "A collection of round outlined React icons with 1px radius and 2px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -9694,7 +9705,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -9732,7 +9744,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -9787,7 +9799,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-2-stroke-1.5",
         "description": "A collection of round filled React icons with 2px radius and 1.5px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -10295,7 +10307,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -10336,7 +10349,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 10": 9,
@@ -10389,7 +10402,7 @@
       "details": {
         "name": "@central-icons-react/square-filled-radius-0-stroke-1.5",
         "description": "A collection of square filled React icons with 0px radius and 1.5px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -10897,7 +10910,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -10938,7 +10952,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 10": 9,
@@ -10990,7 +11004,7 @@
       "details": {
         "name": "@central-icons-react/square-filled-radius-0-stroke-2",
         "description": "A collection of square filled React icons with 0px radius and 2px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -11498,7 +11512,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -11539,7 +11554,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -11592,7 +11607,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-3-stroke-1.5",
         "description": "A collection of round filled React icons with 3px radius and 1.5px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -12100,7 +12115,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -12142,7 +12158,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 10": 9,
@@ -12194,7 +12210,7 @@
       "details": {
         "name": "@central-icons-react/square-outlined-radius-0-stroke-1",
         "description": "A collection of square outlined React icons with 0px radius and 1px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -12698,7 +12714,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -12737,7 +12754,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -12792,7 +12809,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-1-stroke-2",
         "description": "A collection of round filled React icons with 1px radius and 2px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -13300,7 +13317,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -13340,7 +13358,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -13393,7 +13411,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-1-stroke-1.5",
         "description": "A collection of round filled React icons with 1px radius and 1.5px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -13901,7 +13919,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -13943,7 +13962,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 10": 9,
@@ -13994,7 +14013,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-0-stroke-1.5",
         "description": "A collection of round outlined React icons with 0px radius and 1.5px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -14498,7 +14517,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -14536,7 +14556,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -14591,7 +14611,7 @@
       "details": {
         "name": "@central-icons-react/square-filled-radius-0-stroke-1",
         "description": "A collection of square filled React icons with 0px radius and 1px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -15099,7 +15119,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -15141,7 +15162,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 10": 9,
@@ -15193,7 +15214,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-0-stroke-2",
         "description": "A collection of round filled React icons with 0px radius and 2px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -15701,7 +15722,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -15742,7 +15764,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -15795,7 +15817,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-0-stroke-2",
         "description": "A collection of round outlined React icons with 0px radius and 2px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -16299,7 +16321,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -16337,7 +16360,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -16393,7 +16416,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-2-stroke-2",
         "description": "A collection of round outlined React icons with 2px radius and 2px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -16771,7 +16794,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -16785,7 +16809,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -16860,7 +16884,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-3-stroke-1",
         "description": "A collection of round outlined React icons with 3px radius and 1px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -17364,7 +17388,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -17403,7 +17428,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -17458,7 +17483,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-3-stroke-2",
         "description": "A collection of round outlined React icons with 3px radius and 2px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -17836,7 +17861,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -17850,7 +17876,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -17925,7 +17951,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-1-stroke-1",
         "description": "A collection of round outlined React icons with 1px radius and 1px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -18429,7 +18455,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -18468,7 +18495,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -18523,7 +18550,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-2-stroke-1.5",
         "description": "A collection of round filled React icons with 2px radius and 1.5px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -18901,7 +18928,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -18915,7 +18943,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -18990,7 +19018,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-2-stroke-2",
         "description": "A collection of round filled React icons with 2px radius and 2px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -19368,7 +19396,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -19382,7 +19411,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 4,
         "Fri, 06": 1,
@@ -19457,7 +19486,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-1-stroke-1",
         "description": "A collection of round filled React icons with 1px radius and 1px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -19965,7 +19994,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -20007,7 +20037,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 10": 9,
@@ -20059,7 +20089,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-0-stroke-1",
         "description": "A collection of round outlined React icons with 0px radius and 1px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -20563,7 +20593,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -20602,7 +20633,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -20657,7 +20688,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-2-stroke-1",
         "description": "A collection of round outlined React icons with 2px radius and 1px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -21035,7 +21066,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -21049,7 +21081,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -21124,7 +21156,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-1-stroke-2",
         "description": "A collection of round filled React icons with 1px radius and 2px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -21502,7 +21534,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -21516,7 +21549,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -21591,7 +21624,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-1-stroke-1",
         "description": "A collection of round outlined React icons with 1px radius and 1px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -21969,7 +22002,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -21983,7 +22017,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -22058,7 +22092,7 @@
       "details": {
         "name": "@central-icons-react-native/square-outlined-radius-0-stroke-1.5",
         "description": "A collection of square outlined React icons with 0px radius and 1.5px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -22436,7 +22470,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -22450,7 +22485,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -22525,7 +22560,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-3-stroke-1",
         "description": "A collection of round filled React icons with 3px radius and 1px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -22903,7 +22938,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -22917,7 +22953,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 4,
         "Fri, 06": 1,
@@ -22992,7 +23028,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-3-stroke-2",
         "description": "A collection of round filled React icons with 3px radius and 2px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -23370,7 +23406,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -23384,7 +23421,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -23459,7 +23496,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-0-stroke-1",
         "description": "A collection of round filled React icons with 0px radius and 1px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -23968,7 +24005,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 4,
@@ -24010,7 +24048,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 10": 9,
@@ -24062,7 +24100,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-2-stroke-1.5",
         "description": "A collection of round outlined React icons with 2px radius and 1.5px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -24440,7 +24478,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -24454,7 +24493,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -24529,7 +24568,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-3-stroke-1.5",
         "description": "A collection of round filled React icons with 3px radius and 1.5px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -24907,7 +24946,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -24921,7 +24961,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 4,
         "Fri, 06": 1,
@@ -24996,7 +25036,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-1-stroke-1.5",
         "description": "A collection of round filled React icons with 1px radius and 1.5px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -25374,7 +25414,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -25388,7 +25429,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -25463,7 +25504,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-3-stroke-1",
         "description": "A collection of round outlined React icons with 3px radius and 1px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -25841,7 +25882,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -25855,7 +25897,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -25930,7 +25972,7 @@
       "details": {
         "name": "@central-icons-react-native/square-outlined-radius-0-stroke-1",
         "description": "A collection of square outlined React icons with 0px radius and 1px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -26308,7 +26350,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -26322,7 +26365,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -26397,7 +26440,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-0-stroke-1",
         "description": "A collection of round outlined React icons with 0px radius and 1px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -26775,7 +26818,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -26789,7 +26833,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -26864,7 +26908,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-0-stroke-2",
         "description": "A collection of round filled React icons with 0px radius and 2px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -27242,7 +27286,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -27256,7 +27301,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -27331,7 +27376,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-1-stroke-1",
         "description": "A collection of round filled React icons with 1px radius and 1px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -27709,7 +27754,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -27723,7 +27769,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -27798,7 +27844,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-1-stroke-2",
         "description": "A collection of round outlined React icons with 1px radius and 2px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -28176,7 +28222,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -28190,7 +28237,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -28265,7 +28312,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-1-stroke-1.5",
         "description": "A collection of round outlined React icons with 1px radius and 1.5px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -28643,7 +28690,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -28657,7 +28705,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -28732,7 +28780,7 @@
       "details": {
         "name": "@central-icons-react-native/square-outlined-radius-0-stroke-2",
         "description": "A collection of square outlined React icons with 0px radius and 2px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -29110,7 +29158,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -29124,7 +29173,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -29199,7 +29248,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-2-stroke-1",
         "description": "A collection of round filled React icons with 2px radius and 1px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -29577,7 +29626,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -29591,7 +29641,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -29666,7 +29716,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-3-stroke-1",
         "description": "A collection of round filled React icons with 3px radius and 1px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -30174,7 +30224,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -30216,7 +30267,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 10": 9,
@@ -30268,7 +30319,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-0-stroke-1.5",
         "description": "A collection of round filled React icons with 0px radius and 1.5px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -30646,7 +30697,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -30660,7 +30712,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -30735,7 +30787,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-0-stroke-2",
         "description": "A collection of round outlined React icons with 0px radius and 2px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -31113,7 +31165,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -31127,7 +31180,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -31202,7 +31255,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-0-stroke-1.5",
         "description": "A collection of round filled React icons with 0px radius and 1.5px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -31710,7 +31763,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -31752,7 +31806,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 10": 9,
@@ -31803,7 +31857,7 @@
       "details": {
         "name": "@central-icons-react-native/round-filled-radius-0-stroke-1",
         "description": "A collection of round filled React icons with 0px radius and 1px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -32181,7 +32235,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -32195,7 +32250,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -32270,7 +32325,7 @@
       "details": {
         "name": "@central-icons-react-native/square-filled-radius-0-stroke-1",
         "description": "A collection of square filled React icons with 0px radius and 1px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -32648,7 +32703,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -32662,7 +32718,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -32737,7 +32793,7 @@
       "details": {
         "name": "@central-icons-react/round-outlined-radius-2-stroke-1",
         "description": "A collection of round outlined React icons with 2px radius and 1px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -33241,7 +33297,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Wed, 07": 4,
@@ -33279,7 +33336,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 09": 6,
@@ -33335,7 +33392,7 @@
       "details": {
         "name": "@central-icons-react/round-filled-radius-2-stroke-1",
         "description": "A collection of round filled React icons with 2px radius and 1px stroke width, designed for use in React applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -33843,7 +33900,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Mon, 18": 3,
@@ -33884,7 +33942,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Thu, 13": 6,
         "Fri, 06": 1,
         "Tue, 10": 9,
@@ -33937,7 +33995,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-3-stroke-1.5",
         "description": "A collection of round outlined React icons with 3px radius and 1.5px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -34315,7 +34373,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -34329,7 +34388,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -34404,7 +34463,7 @@
       "details": {
         "name": "@central-icons-react-native/round-outlined-radius-0-stroke-1.5",
         "description": "A collection of round outlined React icons with 0px radius and 1.5px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -34782,7 +34841,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -34796,7 +34856,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -34871,7 +34931,7 @@
       "details": {
         "name": "@central-icons-react-native/square-filled-radius-0-stroke-1.5",
         "description": "A collection of square filled React icons with 0px radius and 1.5px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -35249,7 +35309,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -35263,7 +35324,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
@@ -38278,7 +38339,7 @@
       "details": {
         "name": "@central-icons-react-native/square-filled-radius-0-stroke-2",
         "description": "A collection of square filled React icons with 0px radius and 2px stroke width, designed for use in React Native / Expo applications.",
-        "latestVersion": "1.1.181",
+        "latestVersion": "1.1.182",
         "license": "SEE LICENSE IN LICENSE.md",
         "keywords": [
           "react",
@@ -38656,7 +38717,8 @@
         "2026-04-01": 1,
         "2026-04-02": 2,
         "2026-04-06": 1,
-        "2026-04-07": 2
+        "2026-04-07": 2,
+        "2026-04-08": 1
       },
       "versionsPerHour": {
         "Fri, 19": 1,
@@ -38670,7 +38732,7 @@
         "Fri, 14": 4,
         "Mon, 07": 7,
         "Tue, 19": 3,
-        "Wed, 17": 2,
+        "Wed, 17": 3,
         "Wed, 19": 1,
         "Thu, 13": 5,
         "Fri, 06": 1,
