@@ -162,6 +162,7 @@
       "2019-09-17": 1,
       "2019-09-18": 5,
       "2020-01-06": 1,
+      "2026-04-29": 20,
       "2018-04-05": 2,
       "2018-04-19": 1,
       "2018-09-30": 1,
@@ -262,7 +263,7 @@
       "Wed, 05": 61,
       "Thu, 11": 308,
       "Fri, 11": 183,
-      "Wed, 11": 183,
+      "Wed, 11": 203,
       "Wed, 14": 366,
       "Sat, 17": 61,
       "Mon, 16": 202,
@@ -3224,7 +3225,7 @@
         "2026-04-25": 1047070,
         "2026-04-26": 1119025,
         "2026-04-27": 3647534,
-        "2026-04-28": 0
+        "2026-04-28": 3810500
       },
       "versionsPerDate": {
         "2018-06-14": 1,
@@ -3654,7 +3655,7 @@
         "2026-04-25": 909,
         "2026-04-26": 819,
         "2026-04-27": 2471,
-        "2026-04-28": 0
+        "2026-04-28": 2979
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -4285,7 +4286,7 @@
         "2026-04-25": 1017,
         "2026-04-26": 830,
         "2026-04-27": 2081,
-        "2026-04-28": 0
+        "2026-04-28": 3063
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -4914,7 +4915,7 @@
         "2026-04-25": 678,
         "2026-04-26": 1192,
         "2026-04-27": 3592,
-        "2026-04-28": 0
+        "2026-04-28": 3597
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -5543,7 +5544,7 @@
         "2026-04-25": 1232,
         "2026-04-26": 1532,
         "2026-04-27": 4085,
-        "2026-04-28": 0
+        "2026-04-28": 4216
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -6172,7 +6173,7 @@
         "2026-04-25": 9138,
         "2026-04-26": 5010,
         "2026-04-27": 6946,
-        "2026-04-28": 0
+        "2026-04-28": 6858
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -6801,7 +6802,7 @@
         "2026-04-25": 626,
         "2026-04-26": 1292,
         "2026-04-27": 4944,
-        "2026-04-28": 0
+        "2026-04-28": 3913
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -7431,7 +7432,7 @@
         "2026-04-25": 491,
         "2026-04-26": 645,
         "2026-04-27": 2223,
-        "2026-04-28": 0
+        "2026-04-28": 2265
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -8046,7 +8047,7 @@
         "2026-04-25": 687,
         "2026-04-26": 979,
         "2026-04-27": 2546,
-        "2026-04-28": 0
+        "2026-04-28": 1962
       },
       "versionsPerDate": {
         "2025-04-16": 5,
@@ -8682,7 +8683,7 @@
         "2026-04-25": 624,
         "2026-04-26": 393,
         "2026-04-27": 1075,
-        "2026-04-28": 0
+        "2026-04-28": 913
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -9313,7 +9314,7 @@
         "2026-04-25": 476,
         "2026-04-26": 1432,
         "2026-04-27": 2400,
-        "2026-04-28": 0
+        "2026-04-28": 3340
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -9943,7 +9944,7 @@
         "2026-04-25": 739,
         "2026-04-26": 1293,
         "2026-04-27": 3815,
-        "2026-04-28": 0
+        "2026-04-28": 3551
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -10574,7 +10575,7 @@
         "2026-04-25": 307,
         "2026-04-26": 132,
         "2026-04-27": 1462,
-        "2026-04-28": 0
+        "2026-04-28": 882
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -11208,7 +11209,7 @@
         "2026-04-25": 576,
         "2026-04-26": 384,
         "2026-04-27": 641,
-        "2026-04-28": 0
+        "2026-04-28": 397
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -11841,7 +11842,7 @@
         "2026-04-25": 215,
         "2026-04-26": 301,
         "2026-04-27": 2052,
-        "2026-04-28": 0
+        "2026-04-28": 804
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -12475,7 +12476,7 @@
         "2026-04-25": 384,
         "2026-04-26": 1240,
         "2026-04-27": 2704,
-        "2026-04-28": 0
+        "2026-04-28": 3047
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -13107,7 +13108,7 @@
         "2026-04-25": 562,
         "2026-04-26": 382,
         "2026-04-27": 577,
-        "2026-04-28": 0
+        "2026-04-28": 268
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -13739,7 +13740,7 @@
         "2026-04-25": 372,
         "2026-04-26": 325,
         "2026-04-27": 1691,
-        "2026-04-28": 0
+        "2026-04-28": 805
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -14372,7 +14373,7 @@
         "2026-04-25": 236,
         "2026-04-26": 84,
         "2026-04-27": 1042,
-        "2026-04-28": 0
+        "2026-04-28": 222
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -15003,7 +15004,7 @@
         "2026-04-25": 308,
         "2026-04-26": 808,
         "2026-04-27": 611,
-        "2026-04-28": 0
+        "2026-04-28": 412
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -15634,7 +15635,7 @@
         "2026-04-25": 504,
         "2026-04-26": 350,
         "2026-04-27": 568,
-        "2026-04-28": 0
+        "2026-04-28": 223
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -16268,7 +16269,7 @@
         "2026-04-25": 237,
         "2026-04-26": 108,
         "2026-04-27": 1769,
-        "2026-04-28": 0
+        "2026-04-28": 352
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -16900,7 +16901,7 @@
         "2026-04-25": 273,
         "2026-04-26": 216,
         "2026-04-27": 2080,
-        "2026-04-28": 0
+        "2026-04-28": 1055
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -17418,7 +17419,7 @@
         "2026-04-25": 333,
         "2026-04-26": 178,
         "2026-04-27": 528,
-        "2026-04-28": 0
+        "2026-04-28": 422
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -18030,7 +18031,7 @@
         "2026-04-25": 296,
         "2026-04-26": 75,
         "2026-04-27": 376,
-        "2026-04-28": 0
+        "2026-04-28": 70
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -18548,7 +18549,7 @@
         "2026-04-25": 291,
         "2026-04-26": 179,
         "2026-04-27": 489,
-        "2026-04-28": 0
+        "2026-04-28": 231
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -19160,7 +19161,7 @@
         "2026-04-25": 290,
         "2026-04-26": 73,
         "2026-04-27": 357,
-        "2026-04-28": 0
+        "2026-04-28": 94
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -19678,7 +19679,7 @@
         "2026-04-25": 157,
         "2026-04-26": 36,
         "2026-04-27": 335,
-        "2026-04-28": 0
+        "2026-04-28": 42
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -20178,7 +20179,7 @@
         "2026-04-25": 372,
         "2026-04-26": 178,
         "2026-04-27": 527,
-        "2026-04-28": 0
+        "2026-04-28": 415
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -20792,7 +20793,7 @@
         "2026-04-25": 312,
         "2026-04-26": 143,
         "2026-04-27": 1285,
-        "2026-04-28": 0
+        "2026-04-28": 775
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -21424,7 +21425,7 @@
         "2026-04-25": 279,
         "2026-04-26": 74,
         "2026-04-27": 463,
-        "2026-04-28": 0
+        "2026-04-28": 71
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -21942,7 +21943,7 @@
         "2026-04-25": 170,
         "2026-04-26": 41,
         "2026-04-27": 336,
-        "2026-04-28": 0
+        "2026-04-28": 26
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -22442,7 +22443,7 @@
         "2026-04-25": 159,
         "2026-04-26": 45,
         "2026-04-27": 380,
-        "2026-04-28": 0
+        "2026-04-28": 45
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -22942,7 +22943,7 @@
         "2026-04-25": 175,
         "2026-04-26": 43,
         "2026-04-27": 426,
-        "2026-04-28": 0
+        "2026-04-28": 49
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -23442,7 +23443,7 @@
         "2026-04-25": 181,
         "2026-04-26": 37,
         "2026-04-27": 340,
-        "2026-04-28": 0
+        "2026-04-28": 31
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -23942,7 +23943,7 @@
         "2026-04-25": 202,
         "2026-04-26": 34,
         "2026-04-27": 327,
-        "2026-04-28": 0
+        "2026-04-28": 26
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -24442,7 +24443,7 @@
         "2026-04-25": 297,
         "2026-04-26": 170,
         "2026-04-27": 490,
-        "2026-04-28": 0
+        "2026-04-28": 226
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -25057,7 +25058,7 @@
         "2026-04-25": 219,
         "2026-04-26": 90,
         "2026-04-27": 703,
-        "2026-04-28": 0
+        "2026-04-28": 93
       },
       "versionsPerDate": {
         "2025-04-14": 3,
@@ -25577,7 +25578,7 @@
         "2026-04-25": 223,
         "2026-04-26": 41,
         "2026-04-27": 342,
-        "2026-04-28": 0
+        "2026-04-28": 51
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -26077,7 +26078,7 @@
         "2026-04-25": 291,
         "2026-04-26": 167,
         "2026-04-27": 917,
-        "2026-04-28": 0
+        "2026-04-28": 736
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -26577,7 +26578,7 @@
         "2026-04-25": 173,
         "2026-04-26": 31,
         "2026-04-27": 304,
-        "2026-04-28": 0
+        "2026-04-28": 71
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -27077,7 +27078,7 @@
         "2026-04-25": 161,
         "2026-04-26": 34,
         "2026-04-27": 337,
-        "2026-04-28": 0
+        "2026-04-28": 37
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -27577,7 +27578,7 @@
         "2026-04-25": 184,
         "2026-04-26": 28,
         "2026-04-27": 318,
-        "2026-04-28": 0
+        "2026-04-28": 30
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -28077,7 +28078,7 @@
         "2026-04-25": 153,
         "2026-04-26": 31,
         "2026-04-27": 315,
-        "2026-04-28": 0
+        "2026-04-28": 32
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -28577,7 +28578,7 @@
         "2026-04-25": 149,
         "2026-04-26": 50,
         "2026-04-27": 345,
-        "2026-04-28": 0
+        "2026-04-28": 32
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -29077,7 +29078,7 @@
         "2026-04-25": 149,
         "2026-04-26": 54,
         "2026-04-27": 379,
-        "2026-04-28": 0
+        "2026-04-28": 49
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -29577,7 +29578,7 @@
         "2026-04-25": 161,
         "2026-04-26": 33,
         "2026-04-27": 361,
-        "2026-04-28": 0
+        "2026-04-28": 49
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -30077,7 +30078,7 @@
         "2026-04-25": 160,
         "2026-04-26": 46,
         "2026-04-27": 329,
-        "2026-04-28": 0
+        "2026-04-28": 70
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -30577,7 +30578,7 @@
         "2026-04-25": 150,
         "2026-04-26": 41,
         "2026-04-27": 322,
-        "2026-04-28": 0
+        "2026-04-28": 30
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -31077,7 +31078,7 @@
         "2026-04-25": 157,
         "2026-04-26": 37,
         "2026-04-27": 368,
-        "2026-04-28": 0
+        "2026-04-28": 26
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -31691,7 +31692,7 @@
         "2026-04-25": 184,
         "2026-04-26": 46,
         "2026-04-27": 765,
-        "2026-04-28": 0
+        "2026-04-28": 49
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -32211,7 +32212,7 @@
         "2026-04-25": 172,
         "2026-04-26": 41,
         "2026-04-27": 317,
-        "2026-04-28": 0
+        "2026-04-28": 37
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -32711,7 +32712,7 @@
         "2026-04-25": 283,
         "2026-04-26": 154,
         "2026-04-27": 884,
-        "2026-04-28": 0
+        "2026-04-28": 697
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -33325,7 +33326,7 @@
         "2026-04-25": 253,
         "2026-04-26": 100,
         "2026-04-27": 743,
-        "2026-04-28": 0
+        "2026-04-28": 152
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -33844,7 +33845,7 @@
         "2026-04-25": 202,
         "2026-04-26": 37,
         "2026-04-27": 332,
-        "2026-04-28": 0
+        "2026-04-28": 29
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -34344,7 +34345,7 @@
         "2026-04-25": 150,
         "2026-04-26": 42,
         "2026-04-27": 327,
-        "2026-04-28": 0
+        "2026-04-28": 23
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -34956,7 +34957,7 @@
         "2026-04-25": 259,
         "2026-04-26": 86,
         "2026-04-27": 384,
-        "2026-04-28": 0
+        "2026-04-28": 103
       },
       "versionsPerDate": {
         "2025-04-16": 4,
@@ -35588,7 +35589,7 @@
         "2026-04-25": 196,
         "2026-04-26": 55,
         "2026-04-27": 692,
-        "2026-04-28": 0
+        "2026-04-28": 67
       },
       "versionsPerDate": {
         "2025-04-14": 2,
@@ -36108,7 +36109,7 @@
         "2026-04-25": 206,
         "2026-04-26": 153,
         "2026-04-27": 941,
-        "2026-04-28": 0
+        "2026-04-28": 728
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -36608,7 +36609,7 @@
         "2026-04-25": 152,
         "2026-04-26": 46,
         "2026-04-27": 318,
-        "2026-04-28": 0
+        "2026-04-28": 27
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -37108,7 +37109,7 @@
         "2026-04-25": 162,
         "2026-04-26": 47,
         "2026-04-27": 346,
-        "2026-04-28": 0
+        "2026-04-28": 43
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -37381,7 +37382,7 @@
         "2026-04-25": 0,
         "2026-04-26": 0,
         "2026-04-27": 0,
-        "2026-04-28": 0
+        "2026-04-28": 1
       },
       "versionsPerDate": {
         "2026-03-12": 4,
@@ -40279,7 +40280,7 @@
         "2026-04-25": 29,
         "2026-04-26": 1,
         "2026-04-27": 5,
-        "2026-04-28": 0
+        "2026-04-28": 3
       },
       "versionsPerDate": {
         "2018-06-30": 1,
@@ -40590,7 +40591,7 @@
         "2026-04-25": 158,
         "2026-04-26": 42,
         "2026-04-27": 328,
-        "2026-04-28": 0
+        "2026-04-28": 25
       },
       "versionsPerDate": {
         "2025-08-08": 1,
@@ -43789,7 +43790,7 @@
         "2026-04-25": 0,
         "2026-04-26": 1,
         "2026-04-27": 1,
-        "2026-04-28": 0
+        "2026-04-28": 1
       },
       "versionsPerDate": {
         "2018-03-18": 5,
@@ -43805,7 +43806,8 @@
         "2019-09-16": 2,
         "2019-09-17": 1,
         "2019-09-18": 3,
-        "2020-01-06": 1
+        "2020-01-06": 1,
+        "2026-04-29": 1
       },
       "versionsPerHour": {
         "Sun, 11": 1,
@@ -43829,7 +43831,8 @@
         "Mon, 05": 1,
         "Tue, 06": 1,
         "Wed, 19": 1,
-        "Mon, 10": 1
+        "Mon, 10": 1,
+        "Wed, 11": 1
       }
     },
     {
@@ -46792,7 +46795,7 @@
         "2026-04-25": 0,
         "2026-04-26": 0,
         "2026-04-27": 0,
-        "2026-04-28": 0
+        "2026-04-28": 10
       },
       "versionsPerDate": {
         "2018-04-05": 2,
@@ -46800,7 +46803,8 @@
         "2018-04-19": 1,
         "2018-04-20": 1,
         "2018-05-18": 1,
-        "2019-09-18": 2
+        "2019-09-18": 2,
+        "2026-04-29": 1
       },
       "versionsPerHour": {
         "Thu, 08": 2,
@@ -46809,7 +46813,8 @@
         "Fri, 09": 1,
         "Fri, 17": 1,
         "Wed, 13": 1,
-        "Wed, 20": 1
+        "Wed, 20": 1,
+        "Wed, 11": 1
       }
     },
     {
@@ -81783,7 +81788,7 @@
         "2026-04-25": 0,
         "2026-04-26": 1,
         "2026-04-27": 0,
-        "2026-04-28": 0
+        "2026-04-28": 1
       },
       "versionsPerDate": {
         "2017-04-07": 1
@@ -97599,13 +97604,409 @@
         "2026-04-25": 0,
         "2026-04-26": 0,
         "2026-04-27": 1,
-        "2026-04-28": 0
+        "2026-04-28": 1
       },
       "versionsPerDate": {
         "2026-04-04": 1
       },
       "versionsPerHour": {
         "Sat, 09": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/express-rest-api",
+        "description": "Express 5 REST adapter for next-model. Turns any Model into a conventional REST resource with per-action authorization + response mapping hooks.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/express-rest-api"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/migrations-generator",
+        "description": "CLI + library for scaffolding next-model migration files. Generates timestamped stubs, sensible naming, and optional table up/down bodies.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/migrations-generator"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/mongodb-connector",
+        "description": "Native MongoDB connector for next-model. Uses the official mongodb driver directly.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/mongodb-connector"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/migrations",
+        "description": "Schema migrations for next-model. Zero runtime dependencies beyond @next-model/core.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/migrations"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/mysql-connector",
+        "description": "Native MySQL connector for next-model. Uses mysql2 directly — no Knex.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/mysql-connector"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/local-storage-connector",
+        "description": "Browser localStorage connector for next-model. Inherits from MemoryConnector.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model-local-storage-connector#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model-local-storage-connector.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model-local-storage-connector/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/local-storage-connector"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/aurora-data-api-connector",
+        "description": "Connector for AWS Aurora Data API.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model-aurora-data-api-connector#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model-aurora-data-api-connector.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model-aurora-data-api-connector/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/aurora-data-api-connector"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/mariadb-connector",
+        "description": "Native MariaDB connector for next-model. Extends @next-model/mysql-connector and uses MariaDB's RETURNING clause.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/mariadb-connector"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/typebox",
+        "description": "Bridge between TypeBox schemas and next-model — derive init(), validators, and schema-DSL columns from a single TObject.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/typebox"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/zod",
+        "description": "Bridge between zod schemas and next-model — derive init(), validators, and schema-DSL columns from a single zod object schema.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/zod"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/postgres-connector",
+        "description": "Native PostgreSQL connector for next-model. Uses node-postgres directly — no Knex.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/postgres-connector"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/graphql-api",
+        "description": "GraphQL schema generator for next-model. Turns any Model into CRUD queries + mutations with per-operation authorization and response mapping hooks.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/graphql-api"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/arktype",
+        "description": "Bridge between arktype types and next-model — derive init(), validators, and schema-DSL columns from a single object type.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/arktype"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/nextjs-api",
+        "description": "Next.js App Router REST adapter for next-model. Emits route-handler exports (GET/POST/PATCH/DELETE) with per-action authorization + response mapping.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/nextjs-api"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/react",
+        "description": "React reactivity bindings for @next-model/core — Provider-scoped identity map, reactive instance shells, watch + invalidation hooks.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/react"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/sqlite-connector",
+        "description": "Native SQLite connector for next-model. Uses better-sqlite3 directly — no Knex.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/sqlite-connector"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/redis-connector",
+        "description": "Redis connector for next-model. Stores rows as HASH per id with a ZSET of ids per table.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/redis-connector"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@next-model/valkey-connector",
+        "description": "Valkey connector for next-model. Extends @next-model/redis-connector — Valkey is wire-compatible with Redis.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-next-model#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-next-model.git",
+          "bugs": "https://github.com/tamino-martinius/node-next-model/issues",
+          "npm": "https://www.npmjs.com/package/@next-model/valkey-connector"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-04-29": 1
+      },
+      "versionsPerHour": {
+        "Wed, 11": 1
       }
     }
   ]
