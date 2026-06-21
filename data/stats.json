@@ -206,7 +206,8 @@
       "2020-07-29": 1,
       "2020-09-12": 1,
       "2020-12-10": 2,
-      "2026-04-04": 1
+      "2026-04-04": 1,
+      "2026-06-21": 1
     },
     "versionsPerHour": {
       "Thu, 15": 163,
@@ -321,7 +322,8 @@
       "Wed, 16": 1,
       "Sun, 16": 1,
       "Sun, 17": 2,
-      "Sat, 08": 1
+      "Sat, 08": 1,
+      "Sun, 10": 1
     }
   },
   "packages": [
@@ -103549,6 +103551,32 @@
         "Wed, 11": 1,
         "Wed, 13": 1,
         "Thu, 13": 1
+      }
+    },
+    {
+      "details": {
+        "name": "@central-icons-svelte/round-filled-radius-3-stroke-1.5",
+        "description": "A collection of round filled Svelte icons with 3px radius and 1.5px stroke width, designed for use in Svelte applications.",
+        "latestVersion": "1.1.278",
+        "license": "SEE LICENSE IN LICENSE.md",
+        "keywords": [
+          "svelte",
+          "icons",
+          "svg",
+          "central-icons",
+          "icon-pack"
+        ],
+        "links": {
+          "homepage": "https://iconists.co/central",
+          "npm": "https://www.npmjs.com/package/@central-icons-svelte/round-filled-radius-3-stroke-1.5"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-06-21": 1
+      },
+      "versionsPerHour": {
+        "Sun, 10": 1
       }
     }
   ]
