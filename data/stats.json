@@ -207,7 +207,8 @@
       "2020-09-12": 1,
       "2020-12-10": 2,
       "2026-04-04": 1,
-      "2026-06-21": 1
+      "2026-06-21": 1,
+      "2026-07-01": 2
     },
     "versionsPerHour": {
       "Thu, 15": 163,
@@ -229,7 +230,7 @@
       "Mon, 13": 153,
       "Mon, 15": 45,
       "Tue, 17": 185,
-      "Wed, 15": 91,
+      "Wed, 15": 93,
       "Wed, 20": 158,
       "Wed, 21": 63,
       "Wed, 22": 92,
@@ -104618,6 +104619,73 @@
       },
       "versionsPerHour": {
         "Sun, 10": 1
+      }
+    },
+    {
+      "details": {
+        "name": "open-crossword-bank",
+        "description": "Open, seedable bilingual (en/de) crossword word bank — 30k words/language plus a clued subset (syllables, POS, clues), with a pattern-matching query API for grid-filling. Code MIT, data CC0.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [
+          "crossword",
+          "words",
+          "wordlist",
+          "wordbank",
+          "clues",
+          "german",
+          "english",
+          "cc0",
+          "seeded",
+          "pattern",
+          "typescript"
+        ],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-open-crossword-bank#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-open-crossword-bank.git",
+          "bugs": "https://github.com/tamino-martinius/node-open-crossword-bank/issues",
+          "npm": "https://www.npmjs.com/package/open-crossword-bank"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-07-01": 1
+      },
+      "versionsPerHour": {
+        "Wed, 15": 1
+      }
+    },
+    {
+      "details": {
+        "name": "open-quiz-bank",
+        "description": "Open, seedable bilingual (de/en) quiz question bank with a small query API. Code MIT, questions CC0.",
+        "latestVersion": "1.0.0-rc.0",
+        "license": "MIT",
+        "keywords": [
+          "quiz",
+          "trivia",
+          "questions",
+          "bank",
+          "quizzes",
+          "german",
+          "english",
+          "cc0",
+          "seeded",
+          "typescript"
+        ],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-open-quiz-bank#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-open-quiz-bank.git",
+          "bugs": "https://github.com/tamino-martinius/node-open-quiz-bank/issues",
+          "npm": "https://www.npmjs.com/package/open-quiz-bank"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-07-01": 1
+      },
+      "versionsPerHour": {
+        "Wed, 15": 1
       }
     }
   ]
