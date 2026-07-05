@@ -208,7 +208,8 @@
       "2020-12-10": 2,
       "2026-04-04": 1,
       "2026-06-21": 1,
-      "2026-07-01": 2
+      "2026-07-01": 2,
+      "2026-07-05": 2
     },
     "versionsPerHour": {
       "Thu, 15": 163,
@@ -321,7 +322,7 @@
       "Tue, 04": 1,
       "Tue, 20": 1,
       "Wed, 16": 1,
-      "Sun, 16": 1,
+      "Sun, 16": 3,
       "Sun, 17": 2,
       "Sat, 08": 1,
       "Sun, 10": 1
@@ -105112,6 +105113,50 @@
       },
       "versionsPerHour": {
         "Wed, 15": 1
+      }
+    },
+    {
+      "details": {
+        "name": "metrics-api-client",
+        "description": "Typed client for a hosted metrics-api-server (default https://metrics-api.tamino.dev)",
+        "latestVersion": "0.0.1",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-metrics-api#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-metrics-api.git",
+          "bugs": "https://github.com/tamino-martinius/node-metrics-api/issues",
+          "npm": "https://www.npmjs.com/package/metrics-api-client"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-07-05": 1
+      },
+      "versionsPerHour": {
+        "Sun, 16": 1
+      }
+    },
+    {
+      "details": {
+        "name": "metrics-api-server",
+        "description": "Scrape public GitHub profile data (contributions, profile, repos) and aggregate npm registry stats into clean JSON",
+        "latestVersion": "0.0.1",
+        "license": "MIT",
+        "keywords": [],
+        "links": {
+          "homepage": "https://github.com/tamino-martinius/node-metrics-api#readme",
+          "repository": "git+https://github.com/tamino-martinius/node-metrics-api.git",
+          "bugs": "https://github.com/tamino-martinius/node-metrics-api/issues",
+          "npm": "https://www.npmjs.com/package/metrics-api-server"
+        }
+      },
+      "downloadsPerDate": {},
+      "versionsPerDate": {
+        "2026-07-05": 1
+      },
+      "versionsPerHour": {
+        "Sun, 16": 1
       }
     }
   ]
